@@ -1,3 +1,6 @@
+PLEASE ENSURE YOU FORK THIS CODE BASE AND LEAVE THIS UNTOUCHED!!!!
+
+
 There are a few things you can do to improve on my code and I challenge you to do some of these things:
 
 Replace my createStrings() methods with method in strings.xml
@@ -12,6 +15,7 @@ Create a new Activity and show more details on individual dates
 I have a few redundant methods, how would you clean that up?
 
 Can you add the additional components from the project into the app?
+
 
 
 Although I am slow to answer I can be contacted at:
